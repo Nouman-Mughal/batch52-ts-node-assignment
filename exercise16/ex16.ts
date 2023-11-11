@@ -35,3 +35,4 @@ original_guest_list.map((guest_name) =>
     `${guest_name} you are invited to dinner at Shahbaz Chicken Tikka shop on 7:30 AM.Please be On time`
   )
 );
+export default original_guest_list;

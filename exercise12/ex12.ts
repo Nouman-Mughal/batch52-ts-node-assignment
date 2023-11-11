@@ -9,3 +9,5 @@ const arr_length = arr.length;
 for (let i = 0; i < arr_length; i++) {
   console.log(`${arr[i]} you are the form of ALLAH's blessings in my life`);
 }
+
+export default arr;
